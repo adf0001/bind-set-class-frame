@@ -1,0 +1,27 @@
+{
+  "name": "bind-set-class-frame",
+  "version": "1.0.1",
+  "description": "bind module set-class to a frame name",
+  "main": "bind-set-class-frame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "set-class",
+    "bind",
+    "frame"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/bind-set-class-frame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/bind-set-class-frame/issues"
+  },
+  "homepage": "https://github.com/adf0001/bind-set-class-frame#readme",
+  "dependencies": {
+    "set-class": "^1.0.3"
+  }
+}
